@@ -3,3 +3,6 @@ Merge é uma operação fundamental de junção de 2 branches que reconcilia as vária
 Automático: é processado apenas pelo software (através de um algoritmo)
 
 Manual: é necessária ação do utilizador para perceber as mudanças a aplicar, é usada principalmente quando existem conflitos que o método automático não consegue resolver
+
+
+O comando git log --follow meu_script.py: Mostra os commits que alteraram um ficheiro particular. Isso segue o ficheiro, independentemente da renomeação do mesmo.
