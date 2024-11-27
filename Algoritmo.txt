@@ -1,6 +1,6 @@
 Algoritmo adiciona digitos
 
-ED:num, 
+ED:num, digito  inteiro
 
 Inicio
 
@@ -8,4 +8,5 @@ Escrever("Insira um num")
 Ler(num)
 
 Se num > 9 entao
-	
+
+Escrever("O resultado é ",digito)	
