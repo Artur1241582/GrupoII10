@@ -1,0 +1,11 @@
+Algoritmo adiciona digitos
+
+ED:num, 
+
+Inicio
+
+Escrever("Insira um num")
+Ler(num)
+
+Se num > 9 entao
+	
